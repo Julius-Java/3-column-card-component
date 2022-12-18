@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.col {
+    padding: 2rem;
+}
+
+#main {
+    max-width: 900px;
+    margin-top: 13%;
+}
+
+#sedan-section {
+    background-color: hsl(31, 77%, 52%);
+}
+
+#suv-section {
+    background-color: hsl(184, 100%, 22%);
+}
+
+#luxury-section {
+    background-color: hsl(179, 100%, 13%);
+}
