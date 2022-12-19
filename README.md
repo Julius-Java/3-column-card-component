@@ -48,7 +48,7 @@ Users should be able to:
 - [Boostrap Grid System](https://getbootstrap.com/docs/5.2/layout/grid/#row-columns)
 
 ### What I learned
-Here I leared about the boostrap rounded-pill class that makes button edges circular
+Here I learned about the boostrap rounded-pill class that makes button edges circular
 
 ```html
 <button type="button" class="btn rounded-pill">Content</button>
